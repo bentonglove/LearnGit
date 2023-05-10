@@ -16,3 +16,5 @@ db.ini
 
 # Jupyter:
 .ipynb_checkpoints
+
+.idea/
